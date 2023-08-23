@@ -15,6 +15,6 @@
 
 
 # Task 6
-
+![send](https://github.com/Zaidi-Alisha/PfFall23/assets/142868085/72123051-8dbd-426d-9016-5dfa457a5e80)
 
 # Task 7
