@@ -16,4 +16,8 @@
 ![task a](https://github.com/Zaidi-Alisha/PfFall23/assets/142868085/366311a0-0aa6-462f-a0f6-081aa15483ab)
 ![task b](https://github.com/Zaidi-Alisha/PfFall23/assets/142868085/4cd4bf54-07c0-4ed2-9e70-07d7a2bb01b4)
 
+# Task 6
+![task 6](https://github.com/Zaidi-Alisha/PfFall23/assets/142868085/09c4a0ab-1660-4b6c-a4ba-1ae21e0be079)
 
+# Task 7
+![task 7](https://github.com/Zaidi-Alisha/PfFall23/assets/142868085/b792c137-dbe0-4609-b46b-03174e3cb08b)
