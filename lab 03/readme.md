@@ -3,7 +3,7 @@
 
 # Question 2: Find out the hypotenuse of a triangle
 
-# Question 3: 
+# Question 3: Discounted Price
 
 
 
