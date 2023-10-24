@@ -6,10 +6,10 @@
 
 #include <stdio.h>
 //Making a function
-          void swapintegers(int &a,int &b){
-          int temp = a;
-          a = b;
-          b = temp;
+          void swapintegers(int*x,int*y){
+          int temp = *x;
+          *x = *y;
+          *y = temp;
         }
 
 int main () {
