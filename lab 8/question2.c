@@ -1,7 +1,7 @@
 /**
  *Programmer: Alisha Zaidi
  *Date: 24 October, 2023
- *Desc: Make a function and then swap two numbers
+ *Desc: Make a simple calculator but use functions
 */
 
 #include <stdio.h>
