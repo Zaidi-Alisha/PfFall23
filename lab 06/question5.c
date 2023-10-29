@@ -6,18 +6,20 @@
  */
 
 #include <stdio.h>
-
 int main() {
+    int count = 0;
+
     for (int i = 0; i <= 6; i++) {
-        for (int j = 0; j < 4; j++) {
-            if (j == 0 || j == 2) {
-                printf("%d ", i);
-            } else {
-                printf("%d", i);
-            }
+        for (int j = 0; j < 4 - i % 2; j++) {
+            printf("%d ", i);
+            count++;
         }
-        printf("\n");
+
+        if (count % 4 == 0) {
+            printf("\n");
+        }
     }
 
     return 0;
 }//end main
+
