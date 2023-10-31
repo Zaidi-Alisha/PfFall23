@@ -24,6 +24,10 @@ int main (){
      printf("Enter the number of elements in the array: ", i + 1);
      scanf("%d", &IntArr[i]);
      }
+  int *ptr = IntArr[N];
+       for (int i=0; i < N; i++){
+       printf("%d",*ptr);
+       ptr ++;
  
   printf("The character array: \n");
  for (int i=0; i < N; i++){
