@@ -28,6 +28,7 @@ int main (){
        for (int i=0; i < N; i++){
        printf("%d",*ptr);
        ptr ++;
+       }
  
   printf("The character array: \n");
  for (int i=0; i < N; i++){
