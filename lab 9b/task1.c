@@ -22,8 +22,8 @@ int main() {
     if (num < 0) {
         printf("Factorial is not defined for negative numbers.\n");
     } else {
-        int product = factorial(num);
-        printf("Factorial of %d is %d\n", num, product);
+        int result = factorial(num);
+        printf("Factorial of %d is %d\n", num, result);
     }
 
     return 0;
