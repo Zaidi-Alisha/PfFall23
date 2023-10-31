@@ -1,3 +1,9 @@
+/**
+ *Programmer: Alisha Zaidi
+ *Date: 31 October, 2023
+ *Desc: Question 1
+*/
+
 #include <stdio.h>
 void swap(int a, int b){
     int tmp = *a
