@@ -75,7 +75,7 @@ int main() {
     addStudent(&collegeDB, 2, "Bob Ross", "Textile Engineering", "B.E", 2023);
 
     // Print students by year
-    printStudentsByYear(&collegeDB, 2022);
+    printStudentsByYear(&collegeDB, 2023);
 
     // Print student by roll number
     printStudentByRollNumber(&collegeDB, 1);
