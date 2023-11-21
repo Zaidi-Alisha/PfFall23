@@ -1,7 +1,7 @@
 /**
  *Programmer: Alisha Zaidi
  *Date: 21 November, 2023
- *Desc: Question 1
+ *Desc: Question 3
 */
 
 #include <stdio.h>
