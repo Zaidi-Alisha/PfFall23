@@ -4,13 +4,6 @@
  *Desc: Question 1
 */
 
-/**
- *Programmer: Alisha Zaidi
- *Date: 21 November, 2023
- *Desc: Question 2
-*/
-
-
 #include <stdio.h>
 #include <string.h>
 
