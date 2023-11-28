@@ -1,4 +1,9 @@
-
+/**
+  * Programmer: Alisha Zaidi
+  * Date: 28th Novemeber 2023
+  * Description: Lab12 Question 02
+  * 
+  **/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
