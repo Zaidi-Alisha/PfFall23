@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 
-
+//Function to find the largest element
 void find_max(int n, int arr[], int res[], int pos) {
     int max = arr[0];
     for (int i = 1; i < n * n; i++) {
@@ -18,13 +18,14 @@ int main(int argc, char *argv[]) {
     if (argc != 2) {
         printf("Usage: %s <hello.txt>\n", argv[0]);
         return 1;
-    }
+    }//ending if
 
+    //Reading the data from the file question1.txt
     FILE *file = fopen(argv[1], "r");
     if (file == NULL) {
         printf("Could not open file %s\n", argv[1]);
         return 1;
-    }
+    }//end if 
 
     int n;
     fscanf(file, "%d", &n);
@@ -55,7 +56,8 @@ int main(int argc, char *argv[]) {
 
     fclose(file);
     return 0;
-
+    
+//reading file
 FILE *fp;
 char ch;
 fp = fopen("question1.txt", "w");
