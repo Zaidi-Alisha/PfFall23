@@ -58,13 +58,13 @@ int main(int argc, char *argv[]) {
 
 FILE *fp;
 char ch;
-fp = fopen("hello.txt", "w");
+fp = fopen("question1.txt", "w");
 printf("Enter data");
 while((ch = getchar())!= EOF) {
   putc(ch,fp);
 }
 fclose(fp);
-fp = fopen("hello.txt", "r");
+fp = fopen("question1.txt", "r");
 
 while( (ch = getc (fp))!= EOF) {
   printf("%c",ch);
